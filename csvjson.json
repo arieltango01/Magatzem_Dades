@@ -1,0 +1,3802 @@
+[
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 1
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 2
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 3
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 4
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 5
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 6
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 7
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 8
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 9
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 10
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "65X3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 11
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "60X3,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 11
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "100X3,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 11
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "85X3,4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 11
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "80X2,6",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 11
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "55X2,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 11
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "40X2",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 12
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "55X3,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 12
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "65X4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 12
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "70X2,2",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 12
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "25X6",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 12
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "150X4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 12
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "30X1,8",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 12
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "54X2,6",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 12
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "20X2",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "20X4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "15X3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "10X2,6",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "36X3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "24X1,8",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "30X4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "50X5,3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "56X3,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "85X4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "36X2",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "131X5,4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 13
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "85X5,1",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 14
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "80X4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 14
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "112X6,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 14
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "70X5,7",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 14
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "80X5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 14
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "65X5,3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 14
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "44X5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 14
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "63X5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 14
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "24X2,6",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "28X2,7",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "35X1,9",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "18X3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "56X4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "54X5,3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "72X3,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "28X3,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "14X1,8",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "48X3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "20X3,6",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "9X1,8",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "78X1,8",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "22X1,8",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "14X1,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "80X1,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 15
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "86X3,2",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 16
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "74X2,6",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 16
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "50X3",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 16
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "60X4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 16
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "95X3,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 16
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA TORICA",
+    "MIDA": "24X26",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 16
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA METAL BUNA",
+    "MIDA": "3/8",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 17
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA METAL BUNA",
+    "MIDA": "1/4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 17
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA METAL BUNA",
+    "MIDA": "1/2",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 17
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA METAL BUNA",
+    "MIDA": "3/4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 17
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JUNTA METAL BUNA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 17
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "CONTROL",
+    "MAQUINA": "ENFARDADORA",
+    "ELEMENTO": "RECANVI ENFARDADORA DNC",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 18
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "CONTROL",
+    "MAQUINA": "ENFARDADORA",
+    "ELEMENTO": "RECANVI ENFARDADORA DNC",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 19
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "CONTROL",
+    "MAQUINA": "ENFARDADORA",
+    "ELEMENTO": "RECANVI ENFARDADORA DNC",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 20
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS DES BOBINADOR M5",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 21
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FLUSOSTATS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 22
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "KAMLOCK",
+    "MIDA": "M 1",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 23
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "KAMLOCK",
+    "MIDA": "M 3/4",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 23
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "KAMLOCK",
+    "MIDA": "F 1",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 24
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PRESOSTAT DIGITAL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 25
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PRESOSTAT DIGITAL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 26
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PRESOSTAT DIGITAL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 27
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "JIMTEN",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 28
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 29
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 30
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 31
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 32
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 33
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 34
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 35
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 36
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FILTRO VALVULA RETENCION",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 37
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "KIT REPARACION PISTONES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 38
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 39
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 40
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "AIREADOR H2O",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 41
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ESPIGA",
+    "MIDA": "M1 X 20",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 42
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ANTIRETORNO",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 43
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS VALVULAS DE REGULACION Y PRESION DE RECIRCULACION",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 44
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "DISCO DE RUPTURA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 45
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MANETAS GRIFOS ALTA PRESION",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 46
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "AIXETESC ALTA PRESSIO",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 47
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "VENTOSAS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 48
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MANOMETROS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 49
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SILENCIADOR",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 50
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "REGULADOR DE PRESION",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 51
+  },
+  {
+    "CATEGORIA": "ELECTONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SUPORT FOTOCELULA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 52
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS BOMBAS PUJOL/POLIOL/MDI BB3",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 53
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS BOMBAS PUJOL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 54
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS NITROGENO",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 55
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS DUCHAS Y LAVAOJOS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 56
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 57
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 58
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 59
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 60
+  },
+  {
+    "CATEGORIA": "CONSUMIBLE",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BROCA CABEZAL",
+    "MIDA": "1,5",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 61
+  },
+  {
+    "CATEGORIA": "CONSUMIBLE",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BROCA CABEZAL",
+    "MIDA": "1,75",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 62
+  },
+  {
+    "CATEGORIA": "CONSUMIBLE",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BROCA CABEZAL",
+    "MIDA": 2,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 63
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "NERVIOSA",
+    "MAQUINA": "NERVIOSA",
+    "ELEMENTO": "MOTLLES POP",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 64
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 65
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 66
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3",
+    "ELEMENTO": "RECANVI BOMBA MDI M3",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 67
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 68
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "SONDA PLATOS AVE PT100",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 69
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 70
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FILTRE PENTA FA 188",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 71
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FILTRE PENTA FA 188",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 72
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "PLACA ASIENTO CUADRADILLO",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 73
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS ENCOLADORA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 74
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS ENCOLADORA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 75
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECANVIS ENCOLADORA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 76
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONSUMIBLES DYMO",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 77
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "DISCOS DE CORTE",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 78
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONTROLADOR TEMP",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 79
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3",
+    "ELEMENTO": "RESISTTENCIA DEPOSITO COMPONENTE M3",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 80
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 81
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENLACE IBC/1P",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 82
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PANY",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 83
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA GROWER",
+    "MIDA": 31,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 84
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CLAU FUSTA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 85
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENGANCHES CADENAS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 86
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 87
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CADENA",
+    "MIDA": "RS10B_1",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 88
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 89
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 10,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 90
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "10X20",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 91
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "10X25",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 92
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "10X30",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 93
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "10X35",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 94
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "10X65",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 95
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 12,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 96
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 14,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 97
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "14X50",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 98
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 99
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 100
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 101
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "AUTOPORFORANTE",
+    "MIDA": "6X50",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 102
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "PISTONES CABEZAL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 103
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "PISTONES CABEZAL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 104
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ELECTROVALVULAS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 105
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "TOBERAS E INYECTORES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 106
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "ELECTROVALVULAS CABEZAL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 107
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ELECTROVALVULA NEUMATICA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 108
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ELECTROVALVULA NEUMATICA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 109
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ELECTROVALVULA NEUMATICA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 110
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ELECTROVALVULA NEUMATICA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 111
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ELECTROVALVULA NEUMATICA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 112
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN CABEZA PLANA",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 113
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN CABEZA REDONDA",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 114
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONECTORES TOMA TIERRA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 115
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "IMPRESORA MACSA/LINX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 116
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PRISIONEROS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 117
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 3,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 118
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 4,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 118
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 5,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 119
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 6,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 120
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "6X35",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 121
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "6X50",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 122
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 123
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 124
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 125
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 8,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 126
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": 8,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 127
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "8X30",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 128
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "8X20",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 129
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ALLEN",
+    "MIDA": "8X35",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 130
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 131
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FEMELLA",
+    "MIDA": 14,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 132
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FEMELLA",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 133
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "AUTOPERFORANTE",
+    "MIDA": "6X38",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 134
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ESPIRROTS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 135
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "VALVULA FA188",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 136
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "POMS I AGAFADORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 137
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MANETAS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 138
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RASPALL I PEDRAS MOLA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 139
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CLAVO MAQUINA DE CLAVOS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 140
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MANETES TAPA MOLLO",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 141
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 142
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 143
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 144
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 145
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "AUTOPERFORANT",
+    "MIDA": "6X25",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 146
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FBN II 12/20",
+    "MIDA": "12X116",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 147
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TAC METALIC I AUTOPERFORANT",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 148
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 149
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA GROWER",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 150
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA",
+    "MIDA": 3,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 151
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA",
+    "MIDA": 5,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 151
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA",
+    "MIDA": 6,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 151
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA",
+    "MIDA": 12,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 151
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA",
+    "MIDA": 16,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 151
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA",
+    "MIDA": 8,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 152
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA",
+    "MIDA": 10,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 152
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FEMELLA",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 153
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FEMELLA AUTOBLOC",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 154
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "HEXAGONAL",
+    "MIDA": 5,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 155
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "HEXAGONAL",
+    "MIDA": 6,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 155
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "HEXAGONAL",
+    "MIDA": 6,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 156
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "HEXAGONAL",
+    "MIDA": 8,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 157
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 158
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARANDELA",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 159
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "HEXAGONAL",
+    "MIDA": 8,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 160
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "HEXAGONAL",
+    "MIDA": 10,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 161
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "HEXAGONAL",
+    "MIDA": 12,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 162
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 163
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "HEXAGONAL",
+    "MIDA": 20,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 164
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "REMACHES",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 165
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MUELLES",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 166
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TIRAFONDOS I MUELLES",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 167
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PASSADORS I ABRACORS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 168
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 169
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "POSTMECANIZADO",
+    "MAQUINA": "M3",
+    "ELEMENTO": "RODES ASCENSOR M3",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 170
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CUTXILLES",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 171
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CUTXILLES FRESES",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 172
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CUTXILLES PRETALL",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 173
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 174
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 175
+  },
+  {
+    "CATEGORIA": "CONSUMIBLE",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "RESPALLS TUBS CAP�AL",
+    "MIDA": 8,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 176
+  },
+  {
+    "CATEGORIA": "CONSUMIBLE",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "RESPALLS TUBS CAP�AL",
+    "MIDA": 10,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 177
+  },
+  {
+    "CATEGORIA": "CONSUMIBLE",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3/M5",
+    "ELEMENTO": "RESPALLS TUBS CAP�AL",
+    "MIDA": 12,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 178
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 179
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "IMANTS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 180
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "AGULLES CALAS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 181
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SILENBLOCS I ESCANYACABES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 182
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RETENS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 183
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINETS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 184
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINETS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 185
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINETS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 186
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINETS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 187
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINETS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 188
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINETS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 189
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINETS",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 190
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINET EMPENYADOR G3",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 191
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINET EMPENYADOR G4",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 192
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "COIXINETS GUIES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 193
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TACS PARET",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 194
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "AUTOPERFORANT",
+    "MIDA": "6X25",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 195
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ABRA�ADERA COLLAR",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 196
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 197
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 198
+  },
+  {
+    "CATEGORIA": "ELECTRICIDAD",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CLAUS PARADES EMERGENCIA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 199
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 200
+  },
+  {
+    "CATEGORIA": "ELECTERICIDAD",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CINTA AISLANT",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 201
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TEFLON",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 202
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TAPES RODAMENTS GUIES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 203
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RACOR",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 204
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TAPS 1",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 205
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TAPS 2",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 206
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "T Y COLZES ROSCATS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 207
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MACHONS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 208
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 209
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MACHONS I REDUCCIONS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 210
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MACHONS I REDUCCIONS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 211
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RACORS TUB",
+    "MIDA": 4,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 212
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RACORS TUB",
+    "MIDA": 6,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 212
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RACORS TUB",
+    "MIDA": 8,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 213
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RACORS TUB",
+    "MIDA": 10,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 214
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RACORS TUB",
+    "MIDA": 12,
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 214
+  },
+  {
+    "CATEGORIA": "ELETRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CABLE CONECTOR",
+    "MIDA": "M8 4P",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 215
+  },
+  {
+    "CATEGORIA": "ELETRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CABLE CONECTOR",
+    "MIDA": "M12 5P",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 216
+  },
+  {
+    "CATEGORIA": "ELETRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CABLE CONECTOR",
+    "MIDA": "M8 3P",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 217
+  },
+  {
+    "CATEGORIA": "ELETRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CABLE CONECTOR",
+    "MIDA": "M8 2P",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 217
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ABRA�ADERA",
+    "MIDA": "30/60",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 218
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ABRA�ADERA",
+    "MIDA": "50/80",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 219
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ABRA�ADERA",
+    "MIDA": "8/30",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 220
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ABRA�ADERA",
+    "MIDA": "70/90",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 220
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ABRA�ADERA",
+    "MIDA": "90/170",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 221
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ABRA�ADERA",
+    "MIDA": "150/200",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 222
+  },
+  {
+    "CATEGORIA": "FERRETERIA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ABRA�ADERA COLLAR",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 223
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 224
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 225
+  },
+  {
+    "CATEGORIA": "HIDRAULICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENDOLLS AIGUA DESTILADA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 226
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "NUMEROS CABLES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 227
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PULSADORS SIEMMENS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 228
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENDOLLS I CONMUTADORS EMPOTRATS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 229
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "REGULADORS PRESSIO",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 230
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PISTOLES AIRE",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 231
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "T TUB",
+    "MIDA": "8/10/12",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 232
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "T I PASAMURS TUB AIRE",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 233
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENNLLA� TUB AIRE",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 234
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENNLLA� TUB AIRE",
+    "MIDA": "VARIAS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 235
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "AIXETES REGULADORES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 236
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENDOLLS MANGURES NEUMATIQUES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 237
+  },
+  {
+    "CATEGORIA": "NEUMATICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SILENCIADOR BOQUILLA NEUMATICA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 238
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BOBINES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 239
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BOBINES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 240
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TERMINAL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 241
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "TERMINAL",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 242
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONTACTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 243
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RELE ESTAT SOLID",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 244
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONTACTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 244
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONTACTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 245
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONTACTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 246
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "GUARDAMOTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 246
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONTACTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 247
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONTACTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 248
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONTACTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 249
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PRENSAESTOPES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 250
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BOMBETES LED",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 251
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BOMBETES LED",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 252
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SINTONITZADOR SENSOR BOBINA M5",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 253
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 254
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "POSTMECANIZADO",
+    "MAQUINA": "M3",
+    "ELEMENTO": "INSERTADOR CABINAS 2 I 3",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 255
+  },
+  {
+    "CATEGORIA": "RECAMBIOS",
+    "SECTOR": "CABEZAL",
+    "MAQUINA": "M3",
+    "ELEMENTO": "RECAMBIS DESBOBINADOR M3",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 256
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 257
+  },
+  {
+    "CATEGORIA": "XXX",
+    "SECTOR": "XXX",
+    "MAQUINA": "XXX",
+    "ELEMENTO": "XXX",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 258
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "POTENCIOMETROS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 259
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BASES RELES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 260
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BASES RELES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 261
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RELES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 262
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RELES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 263
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONNECTORS BOBINES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 264
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "DETECTOR NIVELL TANCS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 265
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SENSORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 266
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SENSORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 267
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SENSORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 268
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SENSORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 269
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "GUARDAMOTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 270
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MAGNETOTERMICS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 270
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "GUARDAMOTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 271
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MAGNETOTERMICS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 271
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MAGNETOTERMICS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 272
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "GUARDAMOTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 273
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "INTERRUPTOR POTENCIA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 274
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ARRENCADORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 275
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PULSADOR EMERGENCIA",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 276
+  },
+  {
+    "CATEGORIA": "ELECTRICIDAD",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENDOLL MF I SUPERFICIE",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 277
+  },
+  {
+    "CATEGORIA": "ELECTRICIDAD",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENDOLL MF I SUPERFICIE",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 278
+  },
+  {
+    "CATEGORIA": "ELECTRICIDAD",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENDOLL TRIFASIC F5P",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 279
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "REGLETES GUIA DIN",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 280
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "LASER KYENCE",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 281
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "REGLETES GUIA DIN",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 282
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CABLE CONNECTOR COLZE",
+    "MIDA": "M8 4P",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 283
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CABLE CONNECTOR COLZE",
+    "MIDA": "M8 5P",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 283
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CABLES CONECTOR",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 284
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CONNECTORS",
+    "MIDA": "4P",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 285
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BOMBETES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 286
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "BOMBETES SENYALITZACIO",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 287
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "PULSADORS I SELECTORS",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 288
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "CAMERA NC",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 289
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ANCLATGE PULSADOR QUADRES",
+    "MIDA": "",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 289
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FUSIBLES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 290
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FUSIBLES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 291
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FUSIBLES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 292
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FUSIBLES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 293
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FUSIBLES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 294
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FUSIBLES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 295
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FUSIBLES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 296
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FI DE CURSA",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 297
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FI DE CURSA",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 298
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FI DE CURSA",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 299
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FOTOCELULES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 300
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "FOTOCELULES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 301
+  },
+  {
+    "CATEGORIA": "ELECTRICIDAD",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "REGLETES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 302
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "ENCODER IMPRESORES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 303
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "MODUL PLC E/S",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 304
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RECAMBIS POSTMECANITZAT",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 305
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "RELE SGURETAT",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 306
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SEFURETAT PORTES",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 307
+  },
+  {
+    "CATEGORIA": "ELECTRONICA",
+    "SECTOR": "MANTENIMIENTO",
+    "MAQUINA": "GENERAL",
+    "ELEMENTO": "SENYALITZACIO",
+    "MIDA": "VARIS",
+    "MAGATZEM": "RECAMBIOS TALLER",
+    "ESTANTERIA": "A",
+    "CAJA": 308
+  }
+]
